@@ -1,13 +1,13 @@
 #ifndef RQKEYCHAIN_H
 #define RQKEYCHAIN_H
 
+#include "qtkeychain/keychain.h"
 #include <QHash>
 #include <QJSValue>
 #include <QObject>
-#include "qtkeychain/keychain.h"
+#include <QQmlEngine>
 
-class RQKeychain : public QObject
-{
+class RQKeychain : public QObject {
   Q_OBJECT
 public:
   explicit RQKeychain(QObject *parent = nullptr);

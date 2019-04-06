@@ -1,6 +1,6 @@
 {
   "name": "@react-qml/keychain",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "ReactQML Keychain",
   "files": ["index.js", "index.d.js"],
   "main": "index.js",
