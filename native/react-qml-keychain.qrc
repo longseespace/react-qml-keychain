@@ -1,0 +1,6 @@
+
+<RCC>
+    <qresource prefix="/com/react-qml/keychain">
+        <file>qmldir</file>
+    </qresource>
+</RCC>

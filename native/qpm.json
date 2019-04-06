@@ -1,0 +1,18 @@
+{
+  "name": "com.react-qml.keychain",
+  "author": {
+    "name": "Long Nguyen",
+    "email": "long@podzim.co"
+  },
+  "repository": {
+    "type": "GITHUB",
+    "url": "git@github.com:longseespace/react-qml-keychain.git"
+  },
+  "version": {
+    "label": "0.0.1"
+  },
+  "dependencies": [
+  ],
+  "license": "MIT",
+  "priFilename": "react-qml-keychain.pri"
+}
