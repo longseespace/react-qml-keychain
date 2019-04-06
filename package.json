@@ -2,10 +2,11 @@
   "name": "@react-qml/keychain",
   "version": "0.0.3",
   "description": "ReactQML Keychain",
-  "files": ["index.js", "index.d.js"],
+  "files": ["index.js", "index.d.ts"],
   "main": "index.js",
   "scripts": {
-    "build": "tsc -d -t ES5 index.ts"
+    "build": "tsc -d -t ES5 index.ts",
+    "prerelease": "yarn build"
   },
   "author": "Long Nguyen <long@podzim.co>",
   "license": "MIT"
